@@ -1,5 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+//import PropTypes from 'prop-types'
 
 
 export default function Navbar(props) {
@@ -32,5 +32,5 @@ export default function Navbar(props) {
   
   )
 }
-Navbar.propTypes={title:PropTypes.string.isRequired,
-                    aboutText:PropTypes.string }
+//Navbar.propTypes={title:PropTypes.string.isRequired,
+                    //aboutText:PropTypes.string }
